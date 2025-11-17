@@ -67,10 +67,10 @@ This converts large automotive datasets into actionable insights for business te
 ## 📷 Dashboard Screenshots  
 
 ### **BMW Sales Dashboard Overview**
-![BMW Dashboard](Dashboard.png)
+![BMW Dashboard](https://github.com/anjalivarun13/BMW-Car-Sales-Analysis/blob/main/Dashboard.png)
 
 ### **Model-Wise Detailed Insights**
-![BMW All Models Page](Dashboard2.png)
+![BMW All Models Page]()
 
 ---
 
