@@ -94,6 +94,5 @@ The dashboard is valuable for decision-makers in marketing, sales planning, and 
 ## 👩‍💻 Author  
 **Anjali Varun**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
-🔗 [GitHub](https://github.com/anjalivarun13)
+🔗 [LinkedIn](https://www.linkedin.com/in/anjali-varun/) | [GitHub](https://github.com/anjalivarun13)  
 
