@@ -70,7 +70,7 @@ This converts large automotive datasets into actionable insights for business te
 ![BMW Dashboard](https://github.com/anjalivarun13/BMW-Car-Sales-Analysis/blob/main/Dashboard.png)
 
 ### **Model-Wise Detailed Insights**
-![BMW All Models Page]()
+![BMW All Models Page](https://github.com/anjalivarun13/BMW-Car-Sales-Analysis/blob/main/Dashboard2.png)
 
 ---
 
